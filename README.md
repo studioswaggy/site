@@ -1,5 +1,5 @@
-# Sumswaggy website
-Sum swaggy site 🤔
+# Swaggy Studio's website
+A pretty swaggy site 😎
 
 - Main domain - [swaggy.dev](https://swaggy.dev/)
 - Alternate domain - [swaggy.pages.dev](https://swaggy.pages.dev/)
