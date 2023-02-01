@@ -8,6 +8,10 @@ input, select, textarea, button {
 
 .fullbox {
   height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 /* css below is from https://github.com/h5bp/html5-boilerplate */
