@@ -1,4 +1,4 @@
-# Swaggy Studio's website
+# Studio Swaggy's website
 A pretty swaggy site 😎
 
 - Main domain - [swaggy.dev](https://swaggy.dev/)
