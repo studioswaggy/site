@@ -12,7 +12,7 @@ input, select, textarea, button {
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: large;
+  font-size: 4rem;
 }
 
 /* css below is from https://github.com/h5bp/html5-boilerplate */
