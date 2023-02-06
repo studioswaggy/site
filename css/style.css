@@ -8,7 +8,11 @@ input, select, textarea, button {
   font-family: inherit;
 }
 
-/* Styling to make <header> div work */
+/* Styling for .fullbox <header> div */
+
+h1 {
+  font-weight: 900;
+}
 
 html,
 body { 
